@@ -17,7 +17,8 @@
     "lint": "yarn lint:js; yarn lint:css; yarn lint:html; yarn lint:md",
     "lint:css": "stylelint **/*.html **/*.css",
     "lint:html": "htmlhint **/*.html",
-    "lint:md": "remark ."
+    "lint:md": "remark .",
+    "test": "yarn lint"
   },
   "dependencies": {},
   "devDependencies": {
