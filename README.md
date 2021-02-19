@@ -2,12 +2,15 @@
 Sudoku game in JS.
 
 ## Todo V1
-- Add HTML
-- Add CSS normalize
-- Create CSS structure
-- Add initial script
-- Create JS structure
+- ~~Add HTML~~
+- ~~Add CSS normalize~~
+- ~~Create CSS structure~~
+- ~~Add initial script~~
+- ~~Create JS structure~~
+- Aggregate CSS files
 - Add jest
+- Add fonts (choose combination)
+- Define color scheme
 - Setup jest
 - Create box 3x3
 - Create test
