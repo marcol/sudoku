@@ -2,7 +2,10 @@
   "name": "sudoku",
   "version": "0.1.0",
   "description": "Creating a sudoku game",
-  "keywords": ["sudoku", "test"],
+  "keywords": [
+    "sudoku",
+    "test"
+  ],
   "homepage": "https://github.com/marcol/sudoku/wiki",
   "bugs": "https://github.com/marcol/sudoku/issues",
   "license": "ISC",
@@ -18,7 +21,7 @@
     "lint:css": "stylelint **/*.html **/*.css",
     "lint:html": "htmlhint **/*.html",
     "lint:md": "remark .",
-    "test": "yarn lint"
+    "test": "jest"
   },
   "dependencies": {},
   "devDependencies": {
@@ -30,12 +33,14 @@
     "eslint-plugin-filenames": "^1.3.2",
     "eslint-plugin-html": "^6.1.1",
     "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^24.1.5",
     "eslint-plugin-json-format": "^2.0.1",
     "eslint-plugin-markdown": "^2.0.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.3.1",
     "htmlhint": "^0.14.2",
     "husky": "^5.0.9",
+    "jest": "^26.6.3",
     "remark-cli": "^9.0.0",
     "remark-lint": "^8.0.0",
     "remark-preset-lint-markdown-style-guide": "^4.0.0",
