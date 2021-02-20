@@ -7,11 +7,9 @@ Sudoku game in JS.
 - ~~Create CSS structure~~
 - ~~Add initial script~~
 - ~~Create JS structure~~
-- Aggregate CSS files
-- Add jest
-- Add fonts (choose combination)
-- Define color scheme
-- Setup jest
+- ~~Aggregate CSS files~~
+- ~~Add jest~~
+- ~~Setup jest~~
 - Create box 3x3
 - Create test
 - Populate 3x3 box
@@ -25,6 +23,8 @@ Sudoku game in JS.
 - Create validation when everything is filled
 
 ## Todo V1+
+- Add fonts (choose combination)
+- Define color scheme
 - Validate on insert
 - Highlight number to insert
 - Choose number and insert

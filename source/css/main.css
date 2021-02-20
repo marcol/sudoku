@@ -2,5 +2,9 @@
  * Main CSS file
  */
 
+/* normalize */
 @import "normalize.css";
 @import "boilerplate.css";
+
+/* components */
+@import "board.css";

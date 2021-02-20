@@ -1,0 +1,20 @@
+/**
+ * Board CSS
+ */
+
+.board {
+  display: grid;
+  height: 450px;
+  width: 450px;
+  overflow: hidden;
+  grid-template-columns: repeat(9, 1fr);
+  grid-template-rows: repeat(9, 1fr);
+  margin: 2em;
+  border: 1px dotted #999;
+}
+
+.board > div {
+  font-size: 30px;
+  line-height: 48px;
+  text-align: center;
+}
